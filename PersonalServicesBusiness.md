@@ -30,7 +30,7 @@ He will have to:
 
 #### 4. Start paying yourself a salary
 Each month in 2021, Tim worked 4 weeks, 40 hours each week, for a total of 160 hours per month. 
-With the hourly rate of %75/hour, Tim billed his client $12,000 + 13% HST (Ontario) = $13,560 each month through his corporation. 
+With the hourly rate of $75/hour, Tim billed his client $12,000 + 13% HST (Ontario) = $13,560 each month through his corporation. 
 ##### Sales Tax: 
 $1,560** of HST each month he will have to remit to the government. 
 It is the money that is being temporarily held on by Tim's corporation until the GST/HST is required to be paid (Tim does that through his online corporate banking account)
