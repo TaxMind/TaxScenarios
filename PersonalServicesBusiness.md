@@ -4,11 +4,11 @@ Personal Services Business, or PSB for short, or "incorporated employee", is a c
 
 But if you know how to properly manage your PSB status, is it better or worse than being an employee? 
  
-Let's work it out with Tim, a young software engineer who is currently on the job market. 
-Tim has had 2 interviews recently, and both have offered him a placement. 
-One job is permanent, with an annual salary of $120K. Tim also gets employee benefits, such as medical and dental insurance, RRSP match (up to $1K/year, for the first 3 years of employment), and 3 weeks of paid vacation
-Second job is a 12-month contract, paying the rate of $75/hour. 
-Taking into consideration only the financial factors, which job should Tim choose?
+Let's work it out with Tim, a young software engineer who was on the job market in Dec 2020. 
+Tim had 2 interviews then, and both have offered him a placement. 
+One job was permanent, with an annual salary of $120K. Tim was also to get employee benefits, such as medical and dental insurance, RRSP match (up to $1K/year, for the first 3 years of employment), and 3 weeks of paid vacation
+Second job was a 12-month contract, paying the rate of $75/hour. 
+Taking into consideration only the financial factors, which job should Tim have choosen?
 
 ### As an employee of another business:
  Tim doesn't have to do any pre-job setup. He just needs to show up at the office on his first day, fill out some paperwork given to him by his manager and start working.
@@ -30,7 +30,7 @@ He will have to:
 
 #### 4. Start paying yourself a salary
 Each month in 2021, Tim worked 4 weeks, 40 hours each week, for a total of 160 hours per month. 
-He billed his client $12,000 + 13% HST (Ontario) = $13,560 each month through his corporation. 
+With the hourly rate of %75/hour, Tim billed his client $12,000 + 13% HST (Ontario) = $13,560 each month through his corporation. 
 ##### Sales Tax: 
 $1,560** of HST each month he will have to remit to the government. 
 It is the money that is being temporarily held on by Tim's corporation until the GST/HST is required to be paid (Tim does that through his online corporate banking account)
