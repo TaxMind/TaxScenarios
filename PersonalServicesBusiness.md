@@ -20,12 +20,12 @@ The accounting department at his new company will take over and provide Tim with
 He will have to:
 1) Register a corporation in order to take this job. That will cost him anywhere from $200 (federal), $550 (provincial) or more, and about an hour of his time
 2) Create a business account with CRA for his new corporation (with this, he will get CRA business, GST/HST and a payroll account numbers)   
-&nbsp;&nbsp;&nbsp;&nbsp;Go to [CRA website](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/register.html)
+&nbsp;&nbsp;&nbsp;&nbsp;Go to <a href="https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/register.html" target="_blank">CRA website</a>
 3) Open the business bank account  
 &nbsp;&nbsp;&nbsp;&nbsp;I would look to credit union to open my bank account, as they do not charge monthly fees. Otherwise, do I want to be paying upwards of $10/month?
 4) [Start paying yourself a salary](####-4.-start-paying-yourself-a-salary) (see below for details)
 5) Prepare, pay and file for various tax liabilities/returns: GST/HST, payroll, income tax returns:  
-&nbsp;&nbsp;&nbsp;&nbsp;Head over to [taxmind.ca](https://taxmind.ca)
+&nbsp;&nbsp;&nbsp;&nbsp;Head over to <a href="https://taxmind.ca" target="_blank">taxmind.ca</a>
 
 
 #### 4. Start paying yourself a salary
