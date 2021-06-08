@@ -51,7 +51,7 @@ In addition, it is important to realize that the corporation is also required to
 The income tax withheld is a prepayment of Tim’s personal tax on his salary that will be applied against his tax liability when he files his personal tax return for the year.  
 The overall result is that the amount Tim receives of the $12,000 earned each month will be net of the employer CPP paid by the corporation and also the employee CPP and income tax withheld and remitted by the corporation on Tim’s behalf. 
  
-##### Deductions: 
+##### Other deductions: 
 Through his corporation, apart from the salary, Tim can also deduct benefits that he would otherwise receive from an employer. 
 Example are: health + dental insurance, or professional general liability/errors & omissions insurance premiums paid for him by his corporation.
 If Tim's work as an employee would provide other allowances, they would be deductible as well eg. a car allowance. 
