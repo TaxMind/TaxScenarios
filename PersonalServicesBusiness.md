@@ -29,4 +29,41 @@ He will have to:
 
 
 #### 4. Start paying yourself a salary
-TBD
+Each month in 2021, Tim worked 4 weeks, 40 hours each week, for a total of 160 hours per month. 
+He billed his client $12,000 + 13% HST (Ontario) = $13,560 each month through his corporation. 
+##### Sales Tax: 
+$1,560** of HST each month he will have to remit to the government. 
+It is the money that is being temporarily held on by Tim's corporation until the GST/HST is required to be paid (Tim does that through his online corporate banking account)
+
+##### Salary:
+When calculating Tim's salary, Tim needs to keep in mind that the corporation has to match his (personal) CPP withholding, up to a maximum of $3,166.45/year (that is the maximum assuming his annual salary earnings is a minimum of $61,600).  
+
+**note: for a 100% owner-shareholder, EI is not deductible from the salary of their corporation, so Tim's corporation does not need to match his EI deductions and therefore, they are not included**  
+
+If Tim is billing $12,000/month + HST through his corporation and wants to pay the maximum out to himself in salary, then his annual salary of $144,000 (12 * $12,000) will be reduced by the max employee portion of CPP withholdings, which is $3,166.45.  
+As well, the corporation must remit an additional $3,166.45 of CPP for the employer portion of CPP. 
+The corporation will get a deduction for the $3,166.45 of the employer portion of CPP remitted to CRA when calculating income on the corporate tax return.
+The impact on Tim’s salary will be a reduction to $140,834. 
+Tim will include this salary of $140,834 on his personal tax return, but $3,166.45 of the salary will be remitted for the employee portion of CPP rather than paid to him. 
+He will receive deductions and tax credits on his personal tax return for the employee portion of CPP of $3,166 that will have been withheld from the $140,834 salary and remitted by the corporation to CRA.   
+
+In addition, it is important to realize that the corporation is also required to withhold and remit income tax from the salary payments to Tim.  
+The income tax withheld is a prepayment of Tim’s personal tax on his salary that will be applied against his tax liability when he files his personal tax return for the year.  
+The overall result is that the amount Tim receives of the $12,000 earned each month will be net of the employer CPP paid by the corporation and also the employee CPP and income tax withheld and remitted by the corporation on Tim’s behalf. 
+ 
+##### Deductions: 
+Through his corporation, apart from the salary, Tim can also deduct benefits that he would otherwise receive from an employer. 
+Example are: health + dental insurance, or professional general liability/errors & omissions insurance premiums paid for him by his corporation.
+If Tim's work as an employee would provide other allowances, they would be deductible as well eg. a car allowance. 
+If Tim incurs expenses for selling properties, or negotiating contracts, those expenses might be deductible. 
+Last, if Tim has to pay any legal fees/expenses to collect amounts owed to him for services rendered, those legal fees/expenses are also deductible (let's hope there will be none of those). 
+Any other expense is not deductible for Tim through his personal services business corporation.
+
+When we say the expense is deductible, it means that the corporation is able to reduce the amount of income it has earned by the amount of the expense. 
+Therefore, the corporation pays less in income tax. 
+Also, the amount of GST/HST** remitted to the government for his billings can be reduced by the amount GST/HST the corporation pays for expenses. 
+
+For a simple example, let's say Tim’s corporation has purchased $1,000 + HST of professional liability insurance for his work. 
+That expense is deductible, and his corporate income will be reduced by $1,000 when calculating the corporation’s income for tax purposes on the corporate tax return. 
+If Tim is using regular method for GST/HST return filings for the corporation, the amount of HST he has to pay to the GST/HST gods can be reduced by $130. 
+
